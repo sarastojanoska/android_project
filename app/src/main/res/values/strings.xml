@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Project_Android</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">Large</string>
+    <string-array name="description">
+            <item>"The Chamonix Valley is considered by many to be the best freeride resort in the world. With its 5 ski resorts (Grands Montets, Les Houches, Le Tour/Balme, La Flegere and Le Brevent) Chamonix Mont-Blanc offers the perfect ski holiday.
+                Anything you would ever want to know about skiing in Chamonix Mont-Blanc is here. How to ski in Chamonix, when to ski in Chamonix and where to ski in Chamonix and the rest of this magnificent Valley.
+                Depending on your level of proficiency, consider hiring a mountain guide to ski the breathtakingly beautiful Vallée Blanche, Chamonix\'s well-known ski route of 20km, over glaciers, navigating around and over crevasses and surrounded by some of the most inspiring mountains in the Alps."</item>
+
+
+        <item>"The ski resort Cortina d\'Ampezzo is located in Cortina d\’Ampezzo (Italy, Venetia (Veneto), Belluno). For skiing and snowboarding, there are 120 km of slopes available. 27 lifts transport the guests. The winter sports area is situated between the elevations of 1,224 and 2,924 m.
+                The winter sport offering in Cortina includes the FREE DOLOMITES - unlimited fun for adrenaline junkies: perfect slopes for all levels and techniques, the most vertical black slope in the entire Dolomiti Superski area for those who want to put their skiing to the ultimate test, a brand new snowpark for freestyle skiers, the most beautiful ski-touring routes in the Dolomites,and breathtaking off-piste skiing"</item>
+
+
+        <item>"The ski resort Madonna di Campiglio/​Pinzolo/​Folgàrida/​Marilleva is located in Madonna di Campiglio/Pinzolo/Val Rendena.It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are accessed by gondola lifts and chairlifts. The ski resort of Pinzolo has been linked since the 2011/2012 season.
+                As well as skiing and snowboarding, facilities are also available for other winter sports activities, including cross-country skiing, winter hiking, snowshoe hiking, ice skating and more."</item>
+
+
+        <item>"At 3,343 meters high, with its ridgeback running west to east from Punta Penia to Punta Rocca,Punta Ombretta,Pizzo Serauta and Punta Serauta,the towering
+                Marmolada is a majestic sight.As the highest peak in the Dolomites, it offers a wonderful 360 panoramic view of Dolomiti Superski-the world\'s largest ski region.
+                If you like challenge,you\'ll love the stunning twelve kilometers descent known as "La Bellunese" that leads through the Marmolada Glacier ski resort.
+                Visitors at the Arraba/Marmolada ski resort can reach the Punta Rocca panoramic terrace in a matter of minutes and take in the imposing view from 3265meters up!"
+             </item>
+
+
+        <item>"The ski resort Sölden is located in the Ötztal (Austria, Tyrol (Tirol), Tiroler Oberland (region), Imst (District)). For skiing and snowboarding, there are 143.4 km of slopes available. 31 lifts transport the guests. The winter sports area is situated between the elevations of 1,350 and 3,340 m.
+                The Sölden ski resort offers skiing enjoyment up to 3,340 m from October until May on its Rettenbachfern and Tiefenbachfern glacier ski areas - snow reliability included. The excellent location of this winter sports resort enables the traditional kick-off of the Alpine World Cup at the end of October.
+                The "BIG 3" three thousand meter peaks of Gaislachkogl (3,058 m), Tiefenbachkogl (3,250 m) and Schwarze Schneide (3,340 m) are accessed with modern cable car lifts and offer a breath-taking panorama of the ski resort and the Ötztal Alps thanks to the Panoramasteg (panorama bridge) and the viewing platform."
+            </item>
+
+
+        <item>"The ski resort Kitzbühel/​Kirchberg – KitzSki is located in Kitzbühel (Austria, Tyrol (Tirol), Tiroler Unterland, Kitzbühel (District)) and in the Brixental (Austria, Tyrol (Tirol), Tiroler Unterland, Kitzbüheler Alpen). For skiing and snowboarding, there are 188 km of slopes and 46 km of ski routes available. 49 lifts transport the guests.
+                The winter sports area is situated between the elevations of 800 and 2,000 m.
+                Kitzbühel - the legend: where skiing was ‘invented’, a venue for regular ski races since 1895 and home to the Streif, for decades the arena for the most famous international race in the Winter World Cup."
+            </item>
+    </string-array>
 </resources>

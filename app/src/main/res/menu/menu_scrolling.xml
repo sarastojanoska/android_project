@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.project_android.ScrollingActivity">
+    <item
+        android:id="@+id/action_next"
+        android:orderInCategory="100"
+        android:title="Peaks_page"
+        app:showAsAction="collapseActionView">
+    </item>
+    <item
+        android:id="@+id/Peak_description"
+        android:title="Peak_description">
+        </item>
+    <item
+        android:id="@+id/Comment"
+        android:title="Comments">
+    </item>
+
+
+</menu>
